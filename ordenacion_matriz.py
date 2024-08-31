@@ -6,6 +6,7 @@ def bubble_sort(fila):
                 fila[j], fila[j+1] = fila[j+1], fila[j]
 
 # Matriz bidimensional
+git pull origin master
 matriz = [
     [9, 3, 1],
     [6, 5, 2],
